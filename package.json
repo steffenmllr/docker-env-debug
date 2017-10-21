@@ -1,0 +1,12 @@
+{
+  "name": "docker-env-debug",
+  "version": "1.0.0",
+  "description": "Just a container that logs the env as json via http",
+  "main": "index.js",
+  "repository": "git@github.com:steffenmllr/docker-env-debug.git",
+  "author": "Steffen Müller <steffen@mllrsohn.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
